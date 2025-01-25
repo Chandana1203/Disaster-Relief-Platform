@@ -1,23 +1,22 @@
-# [Project Name] 🎯
+# Disater Relief Platform 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Simplex
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+- Member 1: Chandana S - LBSITW
+- Member 2: Jesse Teresa Biju - LBSITW
+- Member 3: J Mahalakshmi - LBSITW
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+The platform connects disaster victims, volunteers, and organizations in real-time to address urgent needs such as food, shelter, or medical supplies. It ensures efficient resource distribution and volunteer deployment during emergencies.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Natural and man-made disasters often leave victims in critical need of resources, while volunteers and aid organizations struggle to efficiently coordinate their efforts. The lack of a centralized platform to report incidents, match victims with available resources, and communicate with volunteers leads to delays in relief, misallocation of resources, and an overwhelming response system.
 
 ### The Solution
 [How are you solving it? Keep it fun!]
