@@ -55,11 +55,11 @@ Run tests:
     npm test
 
 # Screenshots (Add at least 3)
-![Alt text](images/![WhatsApp Image 2025-01-26 at 11 25 35_cc2bdf4e](https://github.com/user-attachments/assets/712701c2-b1f2-4b63-8f68-e728abf4b97f)
+![Alt text](images/[WhatsApp Image 2025-01-26 at 11 25 35_cc2bdf4e](https://github.com/user-attachments/assets/712701c2-b1f2-4b63-8f68-e728abf4b97f)
 Incident form for users to report incidents and ask for help
-![Alt text](images/![WhatsApp Image 2025-01-26 at 11 25 32_0cf78fca](https://github.com/user-attachments/assets/6b22a9a9-7828-4748-af0e-12bb9b332811)
+![Alt text](images/[WhatsApp Image 2025-01-26 at 11 25 32_0cf78fca](https://github.com/user-attachments/assets/6b22a9a9-7828-4748-af0e-12bb9b332811)
 Volunteer registration form for first time users
-![Alt_text](images/![WhatsApp Image 2025-01-26 at 11 25 32_f1474e49](https://github.com/user-attachments/assets/8c1edfba-cb85-4f87-bc9d-d404d057bd4f)
+![Alt_text](images/[WhatsApp Image 2025-01-26 at 11 25 32_f1474e49](https://github.com/user-attachments/assets/8c1edfba-cb85-4f87-bc9d-d404d057bd4f)
 )
 Volunteer login 
 
