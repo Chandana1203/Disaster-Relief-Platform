@@ -19,35 +19,49 @@ The platform connects disaster victims, volunteers, and organizations in real-ti
 Natural and man-made disasters often leave victims in critical need of resources, while volunteers and aid organizations struggle to efficiently coordinate their efforts. The lack of a centralized platform to report incidents, match victims with available resources, and communicate with volunteers leads to delays in relief, misallocation of resources, and an overwhelming response system.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Disaster relief platform is designed to bridge the gap between victims, volunteers, and aid organizations. It enables victims to report incidents and needs in real-time, while leveraging a matching algorithm to connect them with nearby volunteers and available resources. The platform includes:
+
+Incident Reporting: Allows victims to report their needs, specifying type (e.g., food, shelter, medical aid) and urgency.
+Volunteer Management: Matches volunteers based on proximity, availability, and skill sets.
+Resource Allocation: Tracks available resources and assigns them to incidents dynamically.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Javascript]
+- [Node.js]
+- [Express]
+- [VSCode]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+ Install dependencies:
+   - For Node.js:
+     bash
+     npm install
+
 
 # Run
-[commands]
+Start the development server:
+  - For Node.js:
+    bash
+    npm run dev
+Build the project:
+  - For Node.js:
+    bash
+    npm run build
+Run tests:
+  - For Node.js:
+    bash
+    npm test
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Alt text](images/![WhatsApp Image 2025-01-26 at 11 25 35_cc2bdf4e](https://github.com/user-attachments/assets/712701c2-b1f2-4b63-8f68-e728abf4b97f)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
