@@ -27,10 +27,10 @@ Resource Allocation: Tracks available resources and assigns them to incidents dy
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Javascript]
-- [Node.js]
-- [Express]
-- [VSCode]
+- Javascript
+- Node.js
+- Express
+- VSCode
 
 ### Implementation
 For Software:
