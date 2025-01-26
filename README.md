@@ -32,8 +32,7 @@ For Software:
 - Express
 - VSCode
 
-### Implementation
-For Software:
+
 # Installation
  Install dependencies:
    - For Node.js:
