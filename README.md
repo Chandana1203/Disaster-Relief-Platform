@@ -9,8 +9,7 @@
 - Member 1: Chandana S - LBSITW
 - Member 2: Jesse Teresa Biju - LBSITW
 - Member 3: J Mahalakshmi - LBSITW
-### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
 The platform connects disaster victims, volunteers, and organizations in real-time to address urgent needs such as food, shelter, or medical supplies. It ensures efficient resource distribution and volunteer deployment during emergencies.
@@ -61,52 +60,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Alt text](images/![WhatsApp Image 2025-01-26 at 11 25 35_cc2bdf4e](https://github.com/user-attachments/assets/712701c2-b1f2-4b63-8f68-e728abf4b97f)
-
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+Incident form for users to report incidents and ask for help
+![Alt text](images/![WhatsApp Image 2025-01-26 at 11 25 32_0cf78fca](https://github.com/user-attachments/assets/6b22a9a9-7828-4748-af0e-12bb9b332811)
+Volunteer registration form for first time users
+![Alt_text](images/![WhatsApp Image 2025-01-26 at 11 25 32_f1474e49](https://github.com/user-attachments/assets/8c1edfba-cb85-4f87-bc9d-d404d057bd4f)
+)
+Volunteer login 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- Chandana S: Set up the Express server and implemented the backend API endpoints.
+- Jesse Teresa Biju : Designed and developed the frontend UI with forms for volunteer login and registration.
+- J Mahalakshmi : Integrated the frontend with the backend and deployed the application on Vercel.
 ---
 Made with ❤️ at TinkerHub
