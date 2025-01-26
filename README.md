@@ -20,9 +20,9 @@ Natural and man-made disasters often leave victims in critical need of resources
 ### The Solution
 Disaster relief platform is designed to bridge the gap between victims, volunteers, and aid organizations. It enables victims to report incidents and needs in real-time, while leveraging a matching algorithm to connect them with nearby volunteers and available resources. The platform includes:
 
-Incident Reporting: Allows victims to report their needs, specifying type (e.g., food, shelter, medical aid) and urgency.
-Volunteer Management: Matches volunteers based on proximity, availability, and skill sets.
-Resource Allocation: Tracks available resources and assigns them to incidents dynamically.
+-Incident Reporting: Allows victims to report their needs, specifying type (e.g., food, shelter, medical aid) and urgency.
+-Volunteer Management: Matches volunteers based on proximity, availability, and skill sets.
+-Resource Allocation: Tracks available resources and assigns them to incidents dynamically.
 
 ## Technical Details
 ### Technologies/Components Used
