@@ -1,0 +1,87 @@
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disaster Relief Platform</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Disaster Relief Coordination Platform</h1>
+    </header>
+    <main>
+        <section id="volunteer-login">
+            <h2>Volunteer Login</h2>
+            <form id="loginForm">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                <button type="submit">Login</button>
+            </form>
+            <div id="loginMessage"></div>
+        </section>
+        <section id="report-incident">
+            <h2>Report an Incident</h2>
+            <button onclick="location.href='report.html'">Report Incident</button>
+        </section>
+    </main>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disaster Relief Platform</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Disaster Relief Coordination Platform</h1>
+    </header>
+    <main>
+        <div id="flash-message" class="flash-message"></div> <!-- Flash message container -->
+        <section id="volunteer-login">
+            <h2>Volunteer Login</h2>
+            <form id="loginForm">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                <button type="submit">Login</button>
+            </form>
+            <div id="loginMessage"></div>
+        </section>
+
+        <section id="volunteer-register">
+            <h2>Volunteer Register</h2>
+            <form id="registerForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="location" required>
+                <label for="skills">Skills:</label>
+                <input type="text" id="skills" name="skills" required>
+                <label for="availability">Availability (Y/N):</label>
+                <input type="text" id="availability" name="availability" required>
+                <label for="username">Username:</label>
+                <input type="text" id="username-register" name="username" required>
+                <label for="password">Password:</label>
+                <input type="password" id="password-register" name="password" required>
+                <button type="submit">Register</button>
+            </form>
+            <div id="registerMessage"></div>
+        </section>
+        <section id="report-incident">
+            <h2>Report an Incident</h2>
+            <button onclick="location.href='report.html'">Report Incident</button>
+        </section>
+    </main>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
