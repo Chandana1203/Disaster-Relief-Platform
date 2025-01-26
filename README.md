@@ -54,9 +54,6 @@ Run tests:
     bash
     npm test
 
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![Alt text](images/![WhatsApp Image 2025-01-26 at 11 25 35_cc2bdf4e](https://github.com/user-attachments/assets/712701c2-b1f2-4b63-8f68-e728abf4b97f)
 Incident form for users to report incidents and ask for help
